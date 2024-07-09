@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shima-HMZ
-- 👀 I’m interested in Devops.
+- 👀 I’m interested in DevOps.
 - 🌱 I’m currently learning Ansible.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
